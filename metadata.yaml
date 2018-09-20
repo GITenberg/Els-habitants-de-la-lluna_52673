@@ -1,0 +1,29 @@
+_repo: Els-habitants-de-la-lluna_52673
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morató, Joseph
+    aliases:
+    - Morató, Josep
+    - Morato, Joseph
+    - Morató i Grau, Joseph Maria
+    - Grau, Josep Morató i
+    birthdate: 1875
+    deathdate: 1918
+    gutenberg_agent_id: '31339'
+    url: http://www.gutenberg.org/2009/agents/31339
+description: ''
+gutenberg_issued: '2016-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52673'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalan fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Els habitants de la lluna
+url: http://www.gutenberg.org/ebooks/52673
